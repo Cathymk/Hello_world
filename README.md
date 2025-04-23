@@ -6,3 +6,5 @@ This is a standard paragraph.
 _italics added_
 
 **bolded text**
+
+Interesting idea added this time Ha!
